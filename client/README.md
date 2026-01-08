@@ -38,18 +38,20 @@ It is a mini **Job Scheduler & Automation System** that allows users to:
 
 ### **Jobs Dashboard**
 
-<img width="960" height="449" alt="image" src="https://github.com/user-attachments/assets/59deb644-8e15-48d4-b2df-620066e0e4c5" />
+<img width="960" height="501" alt="image" src="https://github.com/user-attachments/assets/98b582b1-859c-4c55-bc09-eb1d73f5289a" />
+
 
 
 ### **Create Job Page**
+<img width="960" height="479" alt="image" src="https://github.com/user-attachments/assets/6e8eb241-7368-4f35-a5f1-403b797d95ba" />
 
-![Create Job](./screenshots/create-job.png)
 
 ### **Job Detail Page**
 
-![Job Detail](./screenshots/job-detail.png)
+<img width="960" height="499" alt="image" src="https://github.com/user-attachments/assets/794b804b-50e9-45d2-bb5b-4133c3ff1e3f" />
 
-> *Screenshots folder: `./screenshots` — add images before submission*
+
+
 
 ---
 
