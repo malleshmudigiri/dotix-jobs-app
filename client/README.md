@@ -68,7 +68,9 @@ cd dotix-jobs-app/server
 
 2. Install dependencies:
 
+```bash
 npm install
+```
 
 
 3. Create a `.env` file in the `backend` folder:
